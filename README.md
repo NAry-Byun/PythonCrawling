@@ -1,6 +1,6 @@
 # Python Crawling
 
-Python+Selenium for crawling
+Python+Selenium library for crawling
 
 ## Any issues?
 
