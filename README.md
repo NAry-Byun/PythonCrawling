@@ -12,4 +12,7 @@ Please click the GIF file for more detail
 ![PythonCrawling](https://github.com/NAry-Byun/PythonCrawling/assets/153330377/1a3032e5-7493-4633-8135-41fca02ca43c)
 
 ## How to solved the problems
+Line 30. ecept code
+Behind each Driver change to find_element. 
+It is working without closing. However need to impliment the save file fuction.
 
